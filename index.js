@@ -5,3 +5,10 @@ setTimeout(() => {
     console.log(a);
     
 }, 2000);
+
+
+
+
+
+
+let b= "kamlesh"
